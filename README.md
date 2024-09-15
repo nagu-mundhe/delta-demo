@@ -1,2 +1,2 @@
 # delta-demo
-This is demp for git and github
+This is demp for git and github.
